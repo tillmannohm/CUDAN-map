@@ -1242,16 +1242,56 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":321,
-         "source":"floor_tiles.tsx"
+         "image":"floor_tiles.png",
+         "imageheight":128,
+         "imagewidth":256,
+         "margin":0,
+         "name":"floor_tiles",
+         "spacing":0,
+         "tilecount":32,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":24,
          "firstgid":353,
-         "source":"school.tsx"
+         "image":"school.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"school",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":24,
          "firstgid":929,
-         "source":"walls.tsx"
+         "image":"walls.png",
+         "imageheight":720,
+         "imagewidth":768,
+         "margin":0,
+         "name":"walls",
+         "spacing":0,
+         "tilecount":528,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":1457,
+         "image":"floor_tiles.png",
+         "imageheight":128,
+         "imagewidth":256,
+         "margin":0,
+         "name":"floor_tiles",
+         "spacing":0,
+         "tilecount":32,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
