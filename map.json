@@ -130,7 +130,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1274,6 +1274,19 @@
          "name":"chalk",
          "spacing":0,
          "tilecount":32,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":2113,
+         "image":"walls.png",
+         "imageheight":720,
+         "imagewidth":768,
+         "margin":0,
+         "name":"walls",
+         "spacing":0,
+         "tilecount":528,
          "tileheight":32,
          "tilewidth":32
         }],
