@@ -1747,6 +1747,19 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":1809,
+         "image":"cudan-seats.png",
+         "imageheight":544,
+         "imagewidth":544,
+         "margin":2,
+         "name":"cudan-seats",
+         "spacing":2,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
