@@ -1244,8 +1244,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":1489,
-         "source":"new_floor.tsx"
+         "image":"new_floor.png",
+         "imageheight":128,
+         "imagewidth":256,
+         "margin":0,
+         "name":"new_floor",
+         "spacing":0,
+         "tilecount":32,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
